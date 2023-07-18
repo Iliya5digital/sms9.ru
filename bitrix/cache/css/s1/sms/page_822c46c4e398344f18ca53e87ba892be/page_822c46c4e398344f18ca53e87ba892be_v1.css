@@ -1,0 +1,27 @@
+
+
+/* Start:/local/templates/sms/components/bitrix/main.feedback/feedback/style.min.css?1665736754446*/
+.mfeedback{position:sticky;top:10px}@media (max-width:992px){.mfeedback{margin-bottom:20px}}.mfeedback .btn{background:var(--c2);border-radius:var(--radius)}.mfeedback .btn:hover{background:var(--c3)}.mf-name input,.mf-name textarea{width:100%;height:45px;padding:0 15px;border:1px #ddd solid;margin-bottom:20px;border-radius:var(--radius);font-family:inherit;font-size:16px}.mf-name textarea{padding:15px;height:100px}.mf-text{margin-bottom:3px}
+/* End */
+
+
+/* Start:/bitrix/components/bitrix/map.yandex.system/templates/.default/style.css?1662571393666*/
+div.bx-yandex-map {color: black; font-size: 11px;}
+div.bx-yandex-map div.YMaps-b-balloon-content {color: black; font-size: 11px;}
+div.bx-popup-form div.bx-yandex-map div.YMaps-b-balloon-point div.YMaps-b-balloon div.YMaps-b-balloon-wrap table.YMaps-b-balloon-frame td {
+	padding: 0px !important;
+}
+
+
+div.bx-popup-form div.bx-yandex-map div.YMaps-b-balloon-point div.YMaps-b-balloon div.YMaps-b-balloon-wrap table.YMaps-b-balloon-frame td textarea{
+	font-size: 11px;
+}
+
+
+div.bx-popup-form div.bx-yandex-map div.YMaps-b-balloon-point div.YMaps-b-balloon div.YMaps-b-balloon-wrap table.YMaps-b-balloon-frame td.YMaps-b-balloon-b {
+	background-image: none !important;
+}
+
+/* End */
+/* /local/templates/sms/components/bitrix/main.feedback/feedback/style.min.css?1665736754446 */
+/* /bitrix/components/bitrix/map.yandex.system/templates/.default/style.css?1662571393666 */
